@@ -10,7 +10,7 @@ function App() {
 
 {/* button */}
 
-      <div>
+      <div className="btn">
         <button className={active === 1 ? 'active-btn' :'tab-btn'}
           onClick={() => setActive(1)}>TAB 1
         </button>

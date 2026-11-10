@@ -7,7 +7,9 @@ body{
     color: #FFF0C5;
     padding: 20px;
     margin: 20px auto;
+    
 }
+
 .tab-btn{
     background: #FFF0C5;
     border: none;
@@ -19,6 +21,8 @@ body{
     background: #FF8C52;
     color: #FFF0C5;
     border: none;
+    cursor: pointer;
+    border-bottom: 2px solid #FFF0C5;
 }
 
 .description-boc{
@@ -26,6 +30,5 @@ body{
     border-radius: 10px;
     color: #fff;
     padding: 20px;
-    margin-top: 50px;
-   
+    margin-top: 50px; 
 }
